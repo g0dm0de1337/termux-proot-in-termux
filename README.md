@@ -11,6 +11,13 @@ chmod +x ~/termux-proot.sh
 
 # Start sandbox
 ~/termux-proot.sh
+[.termux]
+
+# Download this page with GitClone
+git clone https://github.com/g0dm0de1337/termux-proot-in-termux
+ ## • cd termux-proot-in-termux
+ ## • sh termux
+[.android-base]
 ```
 
 ![Running a sandboxed Termux environment](https://raw.githubusercontent.com/Yonle/termux-proot/master/screenshot.png)
