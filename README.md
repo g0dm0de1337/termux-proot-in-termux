@@ -15,8 +15,8 @@ chmod +x ~/termux-proot.sh
 
 # Download this page with GitClone
 git clone https://github.com/g0dm0de1337/termux-proot-in-termux
- ## • cd termux-proot-in-termux
- ## • bash termux
+  • cd termux-proot-in-termux
+  • bash termux
 [.android-base]
 ```
 
